@@ -5,12 +5,15 @@ app = Flask(__name__)
 
 
 # <path>のjsonファイルを可視化
+@app.route('/')
+def hello():
+    return "hello, please enter path of data to visualize"
+
+
+# <path>のjsonファイルを可視化
 @app.route('/<path>')
 def vis(path=None):
-    if path is None:
-        return "plz enter path"
-    else:
-        return render_template("index.html", path=path)
+    return render_template("index.html", path=path)
 
 
 # jsのtextbox とかで可視化するデータを指定することを考えていたので上の関数で直接jsonを取っていない
