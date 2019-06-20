@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>res Matrix</title>
+    <link rel="stylesheet" type="text/css" href="static/css/style.css"/>
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+</head>
+<body>
+
+    <div id="dataView"></div>
+    <div style="display:inline-block; float:left" id="container"></div>
+    <div style="display:inline-block; float:left" id="legend"></div>
+
+	<script src="/static/js/main.js"></script>
+
+	<script>
+
+        // ./data/path のjsonを読み込み、行列形式で可視化
+		d3.json("data/{{ path }}", function(error, data) {
+            var mat = [], collabels = [], rowlabels = [];
+		    for(var i=0; i<data.length; i++){
+		        mat[i] = [];
+                for (key in data[i]){
+                    if (key != "column"){
+		                mat[i].push(data[i][key]);
+                    }
+                }
+		        rowlabels.push(data[i].column);
+            }
+		    for (key in data[0]){
+                if (key != "column"){
+                    collabels.push(key);
+                }
+            }
+		    console.log(collabels);
+            Matrix({
+	    		container : '#container',
+		    	data      : mat,
+			    collabels   : collabels,
+                rowlabels   : rowlabels,
+                start_color : '#ffffff',
+                end_color : '#e67e22'
+		    });
+        });
+
+	</script>
+</body>
