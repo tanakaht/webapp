@@ -1,0 +1,500 @@
+"name","group","protein (g)","calcium (g)","sodium (g)","fiber (g)","vitaminc (g)","potassium (g)","carbohydrate (g)","sugars (g)","fat (g)","water (g)","calories","saturated (g)","monounsat (g)","polyunsat (g)","id"
+"Beverage, instant breakfast powder, chocolate, not reconstituted","Dairy and Egg Products",19.9,0.285,0.385,0.4,0.07690000000000001,0.947,66.2,65.8,1.4,7.4,357,0.56,0.314,0.278,27481
+"Beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted","Dairy and Egg Products",35.8,0.5,0.717,2,0.138,1.705,41,39,5.1,7.4,358,2.162,1.189,1.027,27482
+"Beverage, milkshake mix, dry, not chocolate","Dairy and Egg Products",23.5,0.88,0.78,1.6,0.0012,2.2,52.9,51.3,2.6,12.8,329,2.059,0.332,0.06,27483
+"Butter oil, anhydrous","Dairy and Egg Products",0.28,0.004,0.002,,0,0.005,,,99.48,0.24,876,61.924,28.732,3.694,27484
+"Butter, salted","Dairy and Egg Products",0.85,0.024,0.714,,0,0.024,0.06,0.06,81.11,15.87,717,51.368,21.021,3.043,27485
+"Butter, whipped, with salt","Dairy and Egg Products",0.85,0.024,0.827,,0,0.026,0.06,0.06,81.11,15.87,717,50.489,23.426,3.012,27486
+"Butter, without salt","Dairy and Egg Products",0.85,0.024,0.011,,0,0.024,0.06,0.06,81.11,17.94,717,51.368,21.021,3.043,27487
+"Cheese fondue","Dairy and Egg Products",14.23,0.476,0.132,,0,0.105,3.77,,13.47,61.61,229,8.721,3.563,0.484,27488
+"Cheese food, cold pack, american","Dairy and Egg Products",19.66,0.497,0.966,,0,0.363,8.32,,24.46,43.12,331,15.355,7.165,0.719,27489
+"Cheese food, imitation","Dairy and Egg Products",22.4,0.552,1.239,,0,0.336,8.8,8.21,1.3,63.8,137,0.81,0.38,0.048,27490
+"Cheese food, pasteurized process, american, with di sodium phosphate","Dairy and Egg Products",19.61,0.574,1.596,,0,0.279,7.29,7.43,24.6,43.15,328,15.443,7.206,0.723,27491
+"Cheese food, pasteurized process, american, without di sodium phosphate","Dairy and Egg Products",18.4,0.57,1.265,,0,0.291,7.83,7.43,25.18,43.21,330,14.895,7.214,1.108,27492
+"Cheese food, pasteurized process, swiss","Dairy and Egg Products",21.92,0.723,1.552,,0,0.284,4.5,,24.14,43.67,323,15.487,6.801,0.6,27493
+"Cheese product, pasteurized process, american, reduced fat, fortified with vitamin D","Dairy and Egg Products",17.6,0.529,1.587,,0,0.33,10.6,8.02,14.1,51.8,240,8.85,4.13,0.41,27494
+"Cheese product, pasteurized process, cheddar or american, reduced fat","Dairy and Egg Products",17.6,0.529,1.587,,0,0.33,10.6,8.02,14.1,51.8,240,8.85,4.13,0.41,27495
+"Cheese sauce, prepared from recipe","Dairy and Egg Products",10.33,0.311,0.493,0.1,0.0006,0.142,5.48,0.19,14.92,66.86,197,8.034,4.735,1.397,27496
+"Cheese spread, cream cheese base","Dairy and Egg Products",7.1,0.071,0.673,,0,0.112,3.5,3.5,28.6,58.5,295,18.02,8.071,1.033,27497
+"Cheese spread, pasteurized process, american, with di sodium phosphate","Dairy and Egg Products",16.41,0.562,1.625,,0,0.242,8.73,,21.23,47.65,290,13.327,6.219,0.624,27498
+"Cheese spread, pasteurized process, american, without di sodium phosphate","Dairy and Egg Products",16.41,0.562,1.345,,0,0.242,8.73,7.32,21.23,47.65,290,13.327,6.219,0.624,27499
+"Cheese substitute, mozzarella","Dairy and Egg Products",11.47,0.61,0.685,,0.0001,0.455,23.67,23.67,12.22,47.36,248,3.711,6.243,1.738,27500
+"Cheese, Mexican, blend, reduced fat","Dairy and Egg Products",24.69,1.146,0.776,,0,0.093,3.41,0.56,19.4,48.2,282,11.58,5.02,0.75,27501
+"Cheese, american cheddar, imitation","Dairy and Egg Products",16.7,0.562,1.345,,0,0.242,11.6,7.74,14,53.1,239,8.79,4.102,0.409,27502
+"Cheese, blue","Dairy and Egg Products",21.4,0.528,1.395,,0,0.256,2.34,0.5,28.74,42.41,353,18.669,7.778,0.8,27503
+"Cheese, brick","Dairy and Egg Products",23.24,0.674,0.56,,0,0.136,2.79,0.51,29.68,41.11,371,18.764,8.598,0.784,27504
+"Cheese, brie","Dairy and Egg Products",20.75,0.184,0.629,,0,0.152,0.45,0.45,27.68,48.42,334,17.41,8.013,0.826,27505
+"Cheese, camembert","Dairy and Egg Products",19.8,0.388,0.842,,0,0.187,0.46,0.46,24.26,51.8,300,15.259,7.023,0.724,27506
+"Cheese, caraway","Dairy and Egg Products",25.18,0.673,0.69,,0,0.093,3.06,,29.2,39.28,376,18.584,8.275,0.83,27507
+"Cheese, cheddar","Dairy and Egg Products",24.9,0.721,0.621,,0,0.098,1.28,0.52,33.14,36.75,403,21.092,9.391,0.942,27508
+"Cheese, cheshire","Dairy and Egg Products",23.37,0.643,0.7,,0,0.095,4.78,,30.6,37.65,387,19.475,8.671,0.87,27509
+"Cheese, colby","Dairy and Egg Products",23.76,0.685,0.604,,0,0.127,2.57,0.52,32.11,38.2,394,20.218,9.28,0.953,27510
+"Cheese, cottage, creamed, large or small curd","Dairy and Egg Products",11.12,0.083,0.364,,0,0.104,3.38,2.67,4.3,79.79,98,1.718,0.778,0.123,27511
+"Cheese, cottage, creamed, with fruit","Dairy and Egg Products",10.69,0.053,0.344,0.2,0.0014,0.09,4.61,2.38,3.85,79.64,97,2.311,1.036,0.124,27512
+"Cheese, cottage, lowfat, 1% milkfat","Dairy and Egg Products",12.39,0.061,0.406,,0,0.086,2.72,2.72,1.02,82.48,72,0.645,0.291,0.031,27513
+"Cheese, cottage, lowfat, 1% milkfat, lactose reduced","Dairy and Egg Products",12.4,0.053,0.22,0.6,0,0.086,3.2,2.6,1,82.5,74,0.64,0.29,0.03,27514
+"Cheese, cottage, lowfat, 1% milkfat, no sodium added","Dairy and Egg Products",12.4,0.061,0.013,,0,0.086,2.7,2.7,1,83.5,72,0.632,0.284,0.031,27515
+"Cheese, cottage, lowfat, 1% milkfat, with vegetables","Dairy and Egg Products",10.9,0.056,0.403,,0.004,0.086,3,3,1,83.5,67,0.619,0.282,0.039,27516
+"Cheese, cottage, lowfat, 2% milkfat","Dairy and Egg Products",11.83,0.091,0.33,,0,0.084,3.66,3.67,2.45,80.69,86,0.979,0.443,0.07,27517
+"Cheese, cottage, nonfat, uncreamed, dry, large or small curd","Dairy and Egg Products",10.34,0.086,0.33,,0,0.137,6.66,1.85,0.29,81.01,72,0.169,0.079,0.003,27518
+"Cheese, cottage, with vegetables","Dairy and Egg Products",10.9,0.056,0.403,0.1,0.004,0.086,3,0.37,4.2,80.3,95,2.646,1.189,0.14,27519
+"Cheese, cream","Dairy and Egg Products",5.93,0.098,0.321,,0,0.138,4.07,3.21,34.24,54.44,342,19.292,8.62,1.437,27520
+"Cheese, cream, fat free","Dairy and Egg Products",15.69,0.351,0.702,,0,0.278,7.66,5.48,1,71.87,105,0.644,0.25,0.057,27521
+"Cheese, cream, low fat","Dairy and Egg Products",7.85,0.148,0.47,,0,0.247,8.13,5.82,15.28,66.72,201,9.098,3.996,0.658,27522
+"Cheese, dry white, queso seco","Dairy and Egg Products",24.51,0.661,1.808,,0,0.116,2.04,0.55,24.35,42.17,325,13.718,6.418,1.244,27523
+"Cheese, edam","Dairy and Egg Products",24.99,0.731,0.965,,0,0.188,1.43,1.43,27.8,41.56,357,17.572,8.125,0.665,27524
+"Cheese, feta","Dairy and Egg Products",14.21,0.493,1.116,,0,0.062,4.09,4.09,21.28,55.22,264,14.946,4.623,0.591,27525
+"Cheese, fontina","Dairy and Egg Products",25.6,0.55,0.8,,0,0.064,1.55,1.55,31.14,37.92,389,19.196,8.687,1.654,27526
+"Cheese, fresh, queso fresco","Dairy and Egg Products",18.09,0.566,0.751,,0,0.129,2.98,2.32,23.82,51.42,299,12.94,5.966,1.106,27527
+"Cheese, gjetost","Dairy and Egg Products",9.65,0.4,0.6,,0,1.409,42.65,,29.51,13.44,466,19.16,7.879,0.938,27528
+"Cheese, goat, hard type","Dairy and Egg Products",30.52,0.895,0.346,,0,0.048,2.17,2.17,35.59,29.01,452,24.609,8.117,0.845,27529
+"Cheese, goat, semisoft type","Dairy and Egg Products",21.58,0.298,0.515,,0,0.158,2.54,2.54,29.84,45.52,364,20.639,6.808,0.709,27530
+"Cheese, goat, soft type","Dairy and Egg Products",18.52,0.14,0.368,,0,0.026,0.89,0.89,21.08,60.75,268,14.575,4.807,0.501,27531
+"Cheese, gouda","Dairy and Egg Products",24.94,0.7,0.819,,0,0.121,2.22,2.22,27.44,41.46,356,17.614,7.747,0.657,27532
+"Cheese, gruyere","Dairy and Egg Products",29.81,1.011,0.336,,0,0.081,0.36,0.36,32.34,33.19,413,18.913,10.043,1.733,27533
+"Cheese, limburger","Dairy and Egg Products",20.05,0.497,0.8,,0,0.128,0.49,0.49,27.25,48.42,327,16.746,8.606,0.495,27534
+"Cheese, low fat, cheddar or colby","Dairy and Egg Products",24.35,0.415,0.612,,0,0.066,1.91,0.52,7,63.1,173,4.342,2.082,0.222,27535
+"Cheese, low-sodium, cheddar or colby","Dairy and Egg Products",24.35,0.703,0.021,,0,0.112,1.91,0.49,32.62,38.98,398,20.768,9.189,0.972,27536
+"Cheese, mexican, queso anejo","Dairy and Egg Products",21.44,0.68,1.131,,0,0.087,4.63,4.63,29.98,38.06,373,19.033,8.528,0.901,27537
+"Cheese, mexican, queso asadero","Dairy and Egg Products",22.6,0.661,0.655,,0,0.086,2.87,2.87,28.26,42.16,356,17.939,8.038,0.85,27538
+"Cheese, mexican, queso chihuahua","Dairy and Egg Products",21.56,0.651,0.617,,0,0.052,5.56,5.56,29.68,39.13,374,18.843,8.443,0.892,27539
+"Cheese, monterey","Dairy and Egg Products",24.48,0.746,0.536,,0,0.081,0.68,0.5,30.28,41.01,373,19.066,8.751,0.899,27540
+"Cheese, monterey, low fat","Dairy and Egg Products",28.2,0.705,0.564,,0,0.081,0.7,0.56,21.6,46,310,14.04,5.64,0.84,27541
+"Cheese, mozzarella, low sodium","Dairy and Egg Products",27.5,0.731,0.016,,0,0.095,3.1,1.23,17.1,49.9,280,10.867,4.844,0.509,27542
+"Cheese, mozzarella, nonfat","Dairy and Egg Products",31.7,0.961,0.743,1.8,0,0.106,3.5,1.48,,60.2,141,,,,27543
+"Cheese, mozzarella, part skim milk","Dairy and Egg Products",24.26,0.782,0.619,,0,0.084,2.77,1.13,15.92,53.78,254,10.114,4.51,0.472,27544
+"Cheese, mozzarella, part skim milk, low moisture","Dairy and Egg Products",25.96,0.731,0.652,,0,0.095,3.83,0.6,20.03,46.46,302,10.877,4.85,0.508,27545
+"Cheese, mozzarella, whole milk","Dairy and Egg Products",22.17,0.505,0.627,,0,0.076,2.19,1.03,22.35,50.01,300,13.152,6.573,0.765,27546
+"Cheese, mozzarella, whole milk, low moisture","Dairy and Egg Products",21.6,0.575,0.415,,0,0.075,2.47,1.01,24.64,48.38,318,15.561,7.027,0.778,27547
+"Cheese, muenster","Dairy and Egg Products",23.41,0.717,0.628,,0,0.134,1.12,1.12,30.04,41.77,368,19.113,8.711,0.661,27548
+"Cheese, muenster, low fat","Dairy and Egg Products",24.7,0.529,0.6,,0,0.134,3.5,3.5,17.6,50.5,271,10.95,5.09,0.65,27549
+"Cheese, neufchatel","Dairy and Egg Products",9.15,0.117,0.334,,0,0.152,3.59,3.19,22.78,63.11,253,12.79,5.784,0.97,27550
+"Cheese, parmesan, dry grated, reduced fat","Dairy and Egg Products",20,1.109,1.529,,0,0.125,1.37,,20,50.6,265,13.317,6.098,0.462,27551
+"Cheese, parmesan, grated","Dairy and Egg Products",38.46,1.109,1.529,,0,0.125,4.06,0.9,28.61,20.84,431,17.301,8.375,1.173,27552
+"Cheese, parmesan, hard","Dairy and Egg Products",35.75,1.184,1.602,,0,0.092,3.22,0.8,25.83,29.16,392,16.41,7.515,0.569,27553
+"Cheese, parmesan, low sodium","Dairy and Egg Products",41.6,1.376,0.063,,0,0.107,3.7,0.85,29.99,22.2,451,19.051,8.721,0.659,27554
+"Cheese, parmesan, shredded","Dairy and Egg Products",37.86,1.253,1.696,,0,0.097,3.41,0.9,27.34,25,415,17.37,8.734,0.661,27555
+"Cheese, pasteurized process, american, low fat","Dairy and Egg Products",24.6,0.684,1.43,,0,0.18,3.5,0.59,7,58.9,180,4.41,2.005,0.222,27556
+"Cheese, pasteurized process, american, with di sodium phosphate","Dairy and Egg Products",22.15,0.552,1.254,,0,0.169,1.6,0.51,31.25,39.16,375,19.694,8.951,0.99,27557
+"Cheese, pasteurized process, american, without di sodium phosphate","Dairy and Egg Products",22.15,0.616,0.65,,0,0.162,1.6,0.51,31.25,39.16,375,19.694,8.951,0.99,27558
+"Cheese, pasteurized process, cheddar or american, fat-free","Dairy and Egg Products",22.5,0.689,1.528,,0,0.288,13.4,9.95,0.8,56.9,148,0.504,0.229,0.025,27559
+"Cheese, pasteurized process, cheddar or american, low sodium","Dairy and Egg Products",22.2,0.616,0.007,,0,0.162,1.6,0.45,31.19,42.8,376,19.651,8.932,0.988,27560
+"Cheese, pasteurized process, pimento","Dairy and Egg Products",22.13,0.614,1.428,0.1,0.0023,0.162,1.73,0.62,31.2,39.08,375,19.663,8.937,0.988,27561
+"Cheese, pasteurized process, swiss, low fat","Dairy and Egg Products",25.5,0.684,1.43,,0,0.18,4.3,1.35,5.1,59.1,165,3.303,1.351,0.18,27562
+"Cheese, pasteurized process, swiss, with di sodium phosphate","Dairy and Egg Products",24.73,0.772,1.37,,0,0.216,2.1,1.23,25.01,42.31,334,16.045,7.046,0.622,27563
+"Cheese, pasteurized process, swiss, without di sodium phosphate","Dairy and Egg Products",24.73,0.772,0.681,,0,0.216,2.1,,25.01,42.31,334,16.045,7.046,0.622,27564
+"Cheese, port de salut","Dairy and Egg Products",23.78,0.65,0.534,,0,0.136,0.57,0.57,28.2,45.45,352,16.691,9.338,0.729,27565
+"Cheese, provolone","Dairy and Egg Products",25.58,0.756,0.876,,0,0.138,2.14,0.56,26.62,40.95,351,17.078,7.393,0.769,27566
+"Cheese, provolone, reduced fat","Dairy and Egg Products",24.7,0.756,0.876,,0,0.138,3.5,0.55,17.6,50.6,274,11.3,4.89,0.51,27567
+"Cheese, ricotta, part skim milk","Dairy and Egg Products",11.39,0.272,0.125,,0,0.125,5.14,0.31,7.91,74.41,138,4.927,2.314,0.26,27568
+"Cheese, ricotta, whole milk","Dairy and Egg Products",11.26,0.207,0.084,,0,0.105,3.04,0.27,12.98,71.7,174,8.295,3.627,0.385,27569
+"Cheese, romano","Dairy and Egg Products",31.8,1.064,1.2,,0,0.086,3.63,0.73,26.94,30.91,387,17.115,7.838,0.593,27570
+"Cheese, roquefort","Dairy and Egg Products",21.54,0.662,1.809,,0,0.091,2,,30.64,39.38,369,19.263,8.474,1.32,27571
+"Cheese, swiss","Dairy and Egg Products",26.93,0.791,0.192,,0,0.077,5.38,1.32,27.8,37.12,380,17.779,7.274,0.972,27572
+"Cheese, swiss, low fat","Dairy and Egg Products",28.4,0.961,0.26,,0,0.111,3.4,1.33,5.1,59.6,173,3.304,1.351,0.18,27573
+"Cheese, swiss, low sodium","Dairy and Egg Products",28.4,0.961,0.014,,0,0.111,3.4,1.31,27.4,37.8,374,17.744,7.256,0.968,27574
+"Cheese, tilsit","Dairy and Egg Products",24.41,0.7,0.753,,0,0.065,1.88,,25.98,42.86,340,16.775,7.136,0.721,27575
+"Cheese, white, queso blanco","Dairy and Egg Products",20.38,0.69,0.704,,0,0.126,2.53,1.76,24.31,48.7,310,13.661,6.459,1.149,27576
+"Cream substitute, flavored, liquid","Dairy and Egg Products",0.69,0.006,0.08,1.1,0,0.096,35.07,33.04,13.5,50.06,251,2.635,4.002,6.269,27577
+"Cream substitute, flavored, powdered","Dairy and Egg Products",0.68,0.005,0.196,1.2,0,0.09,75.42,58.01,21.47,1.52,498,19.463,0.618,0.229,27578
+"Cream substitute, liquid, light","Dairy and Egg Products",0.8,0.001,0.06,,0,0.177,9.1,9.1,3.5,86.2,71,0.896,2.03,0.42,27579
+"Cream substitute, liquid, with hydrogenated vegetable oil and soy protein","Dairy and Egg Products",1,0.009,0.079,,0,0.191,11.38,11.38,9.97,77.27,136,1.937,7.551,0.027,27580
+"Cream substitute, liquid, with lauric acid oil and sodium caseinate","Dairy and Egg Products",1,0.009,0.079,,0,0.191,11.38,,9.97,77.27,136,9.304,0.106,0.003,27581
+"Cream substitute, powdered","Dairy and Egg Products",4.79,0.022,0.181,,0,0.812,54.88,54.88,35.48,2.21,545,32.525,0.968,0.014,27582
+"Cream substitute, powdered, light","Dairy and Egg Products",1.9,0.001,0.229,,0,0.902,73.4,73.4,15.7,6.2,431,3.8,11.5,0.198,27583
+"Cream, fluid, half and half","Dairy and Egg Products",2.96,0.105,0.041,,0.0009,0.13,4.3,0.16,11.5,80.57,130,7.158,3.321,0.427,27584
+"Cream, fluid, heavy whipping","Dairy and Egg Products",2.05,0.065,0.038,,0.0006,0.075,2.79,0.11,37,57.71,345,23.032,10.686,1.374,27585
+"Cream, fluid, light (coffee cream or table cream)","Dairy and Egg Products",2.7,0.096,0.04,,0.0008,0.122,3.66,0.14,19.31,73.75,195,12.02,5.577,0.717,27586
+"Cream, fluid, light whipping","Dairy and Egg Products",2.17,0.069,0.034,,0.0006,0.097,2.96,0.11,30.91,63.5,292,19.337,9.093,0.884,27587
+"Cream, half and half, fat free","Dairy and Egg Products",2.6,0.096,0.144,,0.0007,0.206,9,5,1.4,86,59,0.841,0.384,0.052,27588
+"Cream, sour, cultured","Dairy and Egg Products",2.07,0.11,0.08,,0.0009,0.141,2.88,3.5,19.73,74.46,193,11.507,5.068,0.84,27589
+"Cream, sour, reduced fat, cultured","Dairy and Egg Products",2.94,0.104,0.041,,0.0009,0.129,4.26,0.16,12,80.14,135,7.47,3.466,0.446,27590
+"Cream, whipped, cream topping, pressurized","Dairy and Egg Products",3.2,0.101,0.13,,0,0.147,12.49,8,22.22,61.33,257,13.831,6.418,0.825,27591
+"Dessert topping, powdered","Dairy and Egg Products",4.9,0.017,0.122,,0,0.166,52.54,52.54,39.92,1.47,577,36.723,0.6,0.447,27592
+"Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk","Dairy and Egg Products",3.61,0.09,0.066,,0.0007,0.151,17.13,17.47,12.72,65.74,194,10.684,0.843,0.201,27593
+"Dessert topping, pressurized","Dairy and Egg Products",0.98,0.005,0.062,,0,0.019,16.07,16.07,22.3,60.37,264,18.912,1.927,0.241,27594
+"Dessert topping, semi solid, frozen","Dairy and Egg Products",1.25,0.006,0.025,,0,0.018,23.05,23.05,25.31,50.21,318,21.783,1.616,0.523,27595
+"Dulce de Leche","Dairy and Egg Products",6.84,0.251,0.129,,0,0.35,55.35,49.74,7.35,28.71,315,4.534,2.143,0.375,27596
+"Egg Mix, USDA Commodity","Dairy and Egg Products",35.6,0.171,0.576,,0,0.373,23.97,2.46,34.5,2.78,555,10.305,13.745,7.555,27597
+"Egg substitute, liquid or frozen, fat free","Dairy and Egg Products",10,0.073,0.199,,0.0005,0.213,2,2,,87,48,,,,27598
+"Egg substitute, powder","Dairy and Egg Products",55.5,0.326,0.8,,0.0008,0.744,21.8,21.8,13,3.86,444,3.766,5.341,1.683,27599
+"Egg, duck, whole, fresh, raw","Dairy and Egg Products",12.81,0.064,0.146,,0,0.222,1.45,0.93,13.77,70.83,185,3.681,6.525,1.223,27600
+"Egg, goose, whole, fresh, raw","Dairy and Egg Products",13.87,0.06,0.138,,0,0.21,1.35,0.94,13.27,70.43,185,3.595,5.747,1.672,27601
+"Egg, quail, whole, fresh, raw","Dairy and Egg Products",13.05,0.064,0.141,,0,0.132,0.41,0.4,11.09,74.35,158,3.557,4.324,1.324,27602
+"Egg, turkey, whole, fresh, raw","Dairy and Egg Products",13.68,0.099,0.151,,0,0.142,1.15,,11.88,72.5,171,3.632,4.571,1.658,27603
+"Egg, white, dried","Dairy and Egg Products",81.1,0.062,1.28,,0,1.125,7.8,5.4,,5.8,382,,,,27604
+"Egg, white, dried, flakes, glucose reduced","Dairy and Egg Products",76.92,0.083,1.156,,0,1.042,4.17,4.17,0.04,14.62,351,,,,27605
+"Egg, white, dried, powder, glucose reduced","Dairy and Egg Products",82.4,0.089,1.238,,0,1.116,4.47,4.47,0.04,8.54,376,,,,27606
+"Egg, white, raw, fresh","Dairy and Egg Products",10.9,0.007,0.166,,0,0.163,0.73,0.71,0.17,87.57,52,,,,27607
+"Egg, white, raw, frozen","Dairy and Egg Products",9.8,0.007,0.158,,0,0.136,1.05,,,88.55,47,,,,27608
+"Egg, whole, cooked, fried","Dairy and Egg Products",13.61,0.062,0.207,,0,0.152,0.83,0.4,14.84,69.47,196,4.323,6.182,3.251,27609
+"Egg, whole, cooked, hard-boiled","Dairy and Egg Products",12.58,0.05,0.124,,0,0.126,1.12,1.12,10.61,74.62,155,3.267,4.077,1.414,27610
+"Egg, whole, cooked, omelet","Dairy and Egg Products",10.57,0.048,0.155,,0,0.117,0.64,0.31,11.66,76.13,154,3.319,4.843,2.712,27611
+"Egg, whole, cooked, poached","Dairy and Egg Products",12.51,0.056,0.297,,0,0.138,0.71,0.37,9.47,75.85,138,3.113,3.643,1.904,27612
+"Egg, whole, cooked, scrambled","Dairy and Egg Products",9.99,0.066,0.145,,0,0.132,1.61,1.43,10.98,76.4,149,3.331,4.441,2.429,27613
+"Egg, whole, dried","Dairy and Egg Products",47.35,0.231,0.523,,0,0.493,4.95,3.08,40.95,3.1,594,12.727,15.337,5.804,27614
+"Egg, whole, dried, stabilized, glucose reduced","Dairy and Egg Products",48.17,0.222,0.548,,0,0.515,2.38,,43.95,1.87,615,13.198,17.564,5.713,27615
+"Egg, whole, raw, fresh","Dairy and Egg Products",12.56,0.056,0.142,,0,0.138,0.72,0.37,9.51,76.15,143,3.126,3.658,1.911,27616
+"Egg, whole, raw, frozen","Dairy and Egg Products",11.95,0.059,0.133,,0,0.13,1.05,,10.2,75.85,148,3.147,3.886,1.412,27617
+"Egg, yolk, dried","Dairy and Egg Products",34.25,0.284,0.135,,0,0.244,3.6,3.6,55.8,2.95,666,17.154,21.129,7.895,27618
+"Egg, yolk, raw, fresh","Dairy and Egg Products",15.86,0.129,0.048,,0,0.109,3.59,0.56,26.54,52.31,322,9.551,11.738,4.204,27619
+"Egg, yolk, raw, frozen","Dairy and Egg Products",15.5,0.138,0.067,,0,0.118,1.15,0.51,25.6,56.2,303,7.82,9.747,3.628,27620
+"Egg, yolk, raw, frozen, salted","Dairy and Egg Products",14,0.114,3.78,,0,0.117,1.6,,23,50.8,274,7.028,8.849,3.15,27621
+"Egg, yolk, raw, frozen, sugared","Dairy and Egg Products",13.8,0.123,0.067,,0,0.103,10.8,,22.75,51.25,307,6.97,8.614,3.244,27622
+"Eggnog","Dairy and Egg Products",4.55,0.13,0.054,,0.0015,0.165,8.05,8.41,4.19,82.54,88,2.591,1.302,0.198,27623
+"Eggs, scrambled, frozen mixture","Dairy and Egg Products",13.1,0.017,0.162,,0,0.147,7.5,7.5,5.6,72.7,135,1.052,2.339,1.778,27624
+"Ensure plus, liquid nutrition","Dairy and Egg Products",5.16,0.079,0.095,,0.0119,0.175,19.88,19.88,4.52,69.84,141,0.673,1.283,3.111,27625
+"Imitation cheese, american or cheddar, low cholesterol","Dairy and Egg Products",25,0.705,0.67,,0,0.055,1,1,32,38,390,5.815,14.127,10.615,27626
+"KRAFT BREAKSTONE'S FREE Fat Free Sour Cream","Dairy and Egg Products",4.7,0.141,0.072,,0.0012,0.219,15.1,7.2,1.3,77.7,91,0.8,,,27627
+"KRAFT BREAKSTONE'S Reduced Fat Sour Cream","Dairy and Egg Products",4.5,0.161,0.059,0.1,0.0011,0.21,6.5,6.4,12,76.2,152,7.6,,,27628
+"KRAFT BREYERS LIGHT N' LIVELY Lowfat Strawberry Yogurt (1% Milkfat)","Dairy and Egg Products",3.2,0.091,0.045,0.2,0,0.151,21.9,19.6,0.8,73.3,108,0.5,,,27629
+"KRAFT BREYERS LIGHT Nonfat Strawberry Yogurt (with Aspartame and Fructose Sweeteners)","Dairy and Egg Products",3.4,0.095,0.045,,0.0006,0.146,9.9,7.7,0.2,86,55,0.1,,,27630
+"KRAFT BREYERS Lowfat Strawberry Yogurt (1% Milkfat)","Dairy and Egg Products",3.8,0.125,0.052,0.2,0,0.192,18.2,17.4,0.8,76.5,96,0.5,,,27631
+"KRAFT BREYERS Smooth & Creamy Lowfat Strawberry Yogurt (1% Milkfat)","Dairy and Egg Products",3.8,0.108,0.055,0.3,0,0.177,19.9,17.2,0.9,74.8,102,0.5,,,27632
+"KRAFT CHEEZ WHIZ LIGHT Pasteurized Process Cheese Product","Dairy and Egg Products",16.3,0.418,1.705,0.2,0.0004,0.297,16.2,8.2,9.5,51.5,215,6.4,,,27633
+"KRAFT CHEEZ WHIZ Pasteurized Process Cheese Sauce","Dairy and Egg Products",12,0.359,1.638,0.3,0.0004,0.24,9.2,6.7,21,51.5,276,13.1,,,27634
+"KRAFT FREE Singles American Nonfat Pasteurized Process Cheese Product","Dairy and Egg Products",22.7,0.712,1.298,0.2,0.0002,0.236,11.7,6.7,1,58,148,0.7,,,27635
+"KRAFT VELVEETA LIGHT Reduced Fat Pasteurized Process Cheese Product","Dairy and Egg Products",19.6,0.574,1.586,,0.0001,0.345,11.8,8.5,10.6,51.3,222,7.1,,,27636
+"KRAFT VELVEETA Pasteurized Process Cheese Spread","Dairy and Egg Products",16.3,0.466,1.499,,0.0002,0.335,9.8,8.1,22,45.8,303,14.4,,,27637
+"Milk shakes, thick chocolate","Dairy and Egg Products",3.05,0.132,0.111,0.3,0,0.224,21.15,20.85,2.7,72.2,119,1.681,0.78,0.1,27638
+"Milk shakes, thick vanilla","Dairy and Egg Products",3.86,0.146,0.095,,0,0.183,17.75,17.75,3.03,74.45,112,1.886,0.875,0.113,27639
+"Milk substitutes, fluid, with lauric acid oil","Dairy and Egg Products",1.75,0.033,0.078,,0,0.114,6.16,,3.41,88.18,61,3.037,0.176,0.008,27640
+"Milk, buttermilk, dried","Dairy and Egg Products",34.3,1.184,0.517,,0.0057,1.592,49,49,5.78,2.97,387,3.598,1.669,0.215,27641
+"Milk, buttermilk, fluid, cultured, lowfat","Dairy and Egg Products",3.31,0.116,0.105,,0.001,0.151,4.79,4.79,0.88,90.13,40,0.548,0.254,0.033,27642
+"Milk, buttermilk, fluid, cultured, reduced fat","Dairy and Egg Products",4.1,0.143,0.086,,0.0015,0.18,5.3,5.3,2,87.7,56,1.242,0.576,0.071,27643
+"Milk, canned, condensed, sweetened","Dairy and Egg Products",7.91,0.284,0.127,,0.0026,0.371,54.4,54.4,8.7,27.16,321,5.486,2.427,0.337,27644
+"Milk, canned, evaporated, nonfat, with added vitamin A and vitamin D","Dairy and Egg Products",7.55,0.29,0.115,,0.0012,0.332,11.35,11.35,0.2,79.4,78,0.121,0.062,0.006,27645
+"Milk, canned, evaporated, with added vitamin A","Dairy and Egg Products",6.81,0.261,0.106,,0.0019,0.303,10.04,,7.56,74.04,134,4.591,2.335,0.245,27646
+"Milk, canned, evaporated, with added vitamin D and without added vitamin A","Dairy and Egg Products",6.81,0.261,0.106,,0.0019,0.303,10.04,10.04,7.56,74.04,134,4.591,2.335,0.245,27647
+"Milk, canned, evaporated, without added vitamin A and vitamin D","Dairy and Egg Products",6.81,0.261,0.106,,0.0019,0.303,10.04,10.04,7.56,74.04,135,4.591,2.335,0.245,27648
+"Milk, chocolate beverage, hot cocoa, homemade","Dairy and Egg Products",3.52,0.114,0.044,1,0.0002,0.197,10.74,9.66,2.34,82.45,77,1.431,0.677,0.084,27649
+"Milk, chocolate, fluid, commercial, lowfat, with added vitamin A and vitamin D","Dairy and Egg Products",3.24,0.116,0.061,0.5,0.0009,0.17,10.44,9.94,1,82.34,63,0.616,0.3,0.035,27650
+"Milk, chocolate, fluid, commercial, reduced fat, with added calcium","Dairy and Egg Products",2.99,0.194,0.066,0.7,0,0.123,12.13,9.55,1.9,82.17,78,1.177,0.455,0.089,27651
+"Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D","Dairy and Egg Products",2.99,0.109,0.066,0.7,0,0.169,12.13,9.55,1.9,82.17,76,1.177,0.455,0.089,27652
+"Milk, chocolate, fluid, commercial, whole, with added vitamin A and vitamin D","Dairy and Egg Products",3.17,0.112,0.06,0.8,0.0009,0.167,10.34,9.54,3.39,82.3,83,2.104,0.99,0.124,27653
+"Milk, dry, nonfat, calcium reduced","Dairy and Egg Products",35.5,0.28,2.28,,0.0067,0.68,51.8,,0.2,4.9,354,0.124,0.058,0.007,27654
+"Milk, dry, nonfat, instant, with added vitamin A and vitamin D","Dairy and Egg Products",35.1,1.231,0.549,,0.0056,1.705,52.19,52.19,0.72,3.96,358,0.467,0.187,0.028,27655
+"Milk, dry, nonfat, instant, without added vitamin A and vitamin D","Dairy and Egg Products",35.1,1.231,0.549,,0.0056,1.705,52.19,52.19,0.72,3.96,358,0.47,0.19,0.03,27656
+"Milk, dry, nonfat, regular, with added vitamin A and vitamin D","Dairy and Egg Products",36.16,1.257,0.535,,0.0068,1.794,51.98,51.98,0.77,3.16,362,0.499,0.2,0.03,27657
+"Milk, dry, nonfat, regular, without added vitamin A and vitamin D","Dairy and Egg Products",36.16,1.257,0.535,,0.0068,1.794,51.98,51.98,0.77,3.16,362,0.499,0.201,0.03,27658
+"Milk, dry, whole, with added vitamin D","Dairy and Egg Products",26.32,0.912,0.371,,0.0086,1.33,38.42,38.42,26.71,2.47,496,16.742,7.924,0.665,27659
+"Milk, dry, whole, without added vitamin D","Dairy and Egg Products",26.32,0.912,0.371,,0.0086,1.33,38.42,38.42,26.71,2.47,496,16.742,7.924,0.665,27660
+"Milk, filled, fluid, with blend of hydrogenated vegetable oils","Dairy and Egg Products",3.33,0.128,0.057,,0.0009,0.139,4.74,,3.46,87.67,63,0.768,1.783,0.75,27661
+"Milk, filled, fluid, with lauric acid oil","Dairy and Egg Products",3.33,0.128,0.057,,0.0009,0.139,4.74,4.74,3.4,87.73,63,3.101,0.1,0.01,27662
+"Milk, fluid, 1% fat, without added vitamin A and vitamin D","Dairy and Egg Products",3.37,0.125,0.044,,0,0.15,4.99,5.2,0.97,89.92,42,0.633,0.277,0.035,27663
+"Milk, fluid, nonfat, calcium fortified (fat free or skim)","Dairy and Egg Products",3.4,0.204,0.052,,0.001,0.166,4.85,4.85,0.18,90.8,35,0.117,0.047,0.007,27664
+"Milk, goat, fluid, with added vitamin D","Dairy and Egg Products",3.56,0.134,0.05,,0.0013,0.204,4.45,4.45,4.14,87.03,69,2.667,1.109,0.149,27665
+"Milk, human, mature, fluid","Dairy and Egg Products",1.03,0.032,0.017,,0.005,0.051,6.89,6.89,4.38,87.5,70,2.009,1.658,0.497,27666
+"Milk, imitation, non-soy","Dairy and Egg Products",1.6,0.082,0.055,,0,0.15,5.3,5.3,2,90,46,0.254,0.484,1.174,27667
+"Milk, indian buffalo, fluid","Dairy and Egg Products",3.75,0.169,0.052,,0.0023,0.178,5.18,,6.89,83.39,97,4.597,1.787,0.146,27668
+"Milk, low sodium, fluid","Dairy and Egg Products",3.1,0.101,0.003,,0.0009,0.253,4.46,4.46,3.46,88.2,61,2.154,0.999,0.128,27669
+"Milk, lowfat, fluid, 1% milkfat, protein fortified, with added vitamin A and vitamin D","Dairy and Egg Products",3.93,0.142,0.058,,0.0012,0.18,5.52,,1.17,88.74,48,0.728,0.338,0.043,27670
+"Milk, lowfat, fluid, 1% milkfat, with added nonfat milk solids, vitamin A and vitamin D","Dairy and Egg Products",3.48,0.128,0.052,,0.001,0.162,4.97,,0.97,89.81,43,0.604,0.28,0.036,27671
+"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D","Dairy and Egg Products",3.37,0.125,0.044,,0,0.15,4.99,5.2,0.97,89.92,42,0.633,0.277,0.035,27672
+"Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)","Dairy and Egg Products",3.96,0.143,0.059,,0.0011,0.182,5.56,,0.25,89.36,41,0.162,0.065,0.009,27673
+"Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)","Dairy and Egg Products",3.57,0.129,0.053,,0.001,0.171,5.02,5.02,0.25,90.38,37,0.162,0.065,0.009,27674
+"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)","Dairy and Egg Products",3.37,0.122,0.042,,0,0.156,4.96,5.09,0.08,90.84,34,0.056,0.022,0.003,27675
+"Milk, nonfat, fluid, without added vitamin A and vitamin D (fat free or skim)","Dairy and Egg Products",3.37,0.122,0.042,,0,0.156,4.96,5.09,0.08,90.84,34,0.051,0.021,0.003,27676
+"Milk, producer, fluid, 3.7% milkfat","Dairy and Egg Products",3.28,0.119,0.049,,0.0015,0.151,4.65,,3.66,87.69,64,2.278,1.057,0.136,27677
+"Milk, reduced fat, fluid, 2% milkfat, protein fortified, with added vitamin A and vitamin D","Dairy and Egg Products",3.95,0.143,0.059,,0.0011,0.182,5.49,5.26,1.98,87.71,56,1.232,0.572,0.074,27678
+"Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids and vitamin A and vitamin D","Dairy and Egg Products",3.48,0.128,0.052,,0.001,0.162,4.97,,1.92,88.86,51,1.195,0.555,0.071,27679
+"Milk, reduced fat, fluid, 2% milkfat, with added nonfat milk solids, without added vitamin A","Dairy and Egg Products",3.95,0.143,0.059,,0.0011,0.182,5.49,,1.98,87.71,56,1.232,0.065,0.009,27680
+"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D","Dairy and Egg Products",3.3,0.12,0.047,,0.0002,0.14,4.8,5.06,1.98,89.21,50,1.257,0.56,0.073,27681
+"Milk, reduced fat, fluid, 2% milkfat, without added vitamin A and vitamin D","Dairy and Egg Products",3.3,0.12,0.047,,0.0002,0.14,4.8,5.06,1.98,89.21,50,1.257,0.56,0.073,27682
+"Milk, sheep, fluid","Dairy and Egg Products",5.98,0.193,0.044,,0.004200000000000001,0.137,5.36,,7,80.7,108,4.603,1.724,0.308,27683
+"Milk, whole, 3.25% milkfat, with added vitamin D","Dairy and Egg Products",3.15,0.113,0.043,,0,0.132,4.8,5.05,3.25,88.13,61,1.865,0.812,0.195,27684
+"Milk, whole, 3.25% milkfat, without added vitamin A and vitamin D","Dairy and Egg Products",3.15,0.113,0.043,,0,0.132,4.78,5.05,3.27,88.13,61,1.865,0.812,0.195,27685
+"Parmesan cheese topping, fat free","Dairy and Egg Products",40,0.8,1.15,,0,0.6,40,1.5,5,8.6,370,3.11,1.446,0.186,27686
+"Protein supplement, milk based, Muscle Milk Light, powder","Dairy and Egg Products",50,1.2,0.25,2,0.042,0.84,22,4,12,12,396,1.087,8.474,1.239,27687
+"Protein supplement, milk based, Muscle Milk, powder","Dairy and Egg Products",45.71,0.5,0.329,7.1,0.03,1.129,18.5,5.71,17.14,15,411,1.553,12.105,1.77,27688
+"Reddi Wip Fat Free Whipped Topping","Dairy and Egg Products",3,0.108,0.072,0.4,0,0.108,25,16,5,66.44,149,2.869,1.25,0.299,27689
+"Sour cream, fat free","Dairy and Egg Products",3.1,0.125,0.141,,0,0.129,15.6,0.39,,80.6,74,,,,27690
+"Sour cream, imitation, cultured","Dairy and Egg Products",2.4,0.003,0.102,,0,0.161,6.63,6.63,19.52,71.15,208,17.791,0.588,0.056,27691
+"Sour cream, light","Dairy and Egg Products",3.5,0.141,0.071,,0.0009,0.212,7.1,0.22,10.6,78.1,138,6.6,3.1,0.4,27692
+"Sour cream, reduced fat","Dairy and Egg Products",7,0.141,0.07,,0.0009,0.211,7,0.3,14.1,71,181,8.7,4.1,0.5,27693
+"Sour dressing, non-butterfat, cultured, filled cream-type","Dairy and Egg Products",3.25,0.113,0.048,,0.0009,0.162,4.68,4.68,16.57,74.79,178,13.272,1.958,0.468,27694
+"USDA Commodity, cheese, cheddar, reduced fat","Dairy and Egg Products",27.2,0.905,0.725,,0,0.093,2,0.58,18.3,48.2,282,11.58,5.02,0.75,27695
+"Whey, acid, dried","Dairy and Egg Products",11.73,2.054,0.968,,0.0009,2.289,73.45,73.45,0.54,3.51,339,0.342,0.149,0.021,27696
+"Whey, acid, fluid","Dairy and Egg Products",0.76,0.103,0.048,,0.0001,0.143,5.12,5.12,0.09,93.42,24,0.057,0.025,0.004,27697
+"Whey, sweet, dried","Dairy and Egg Products",12.93,0.796,1.079,,0.0015,2.08,74.46,74.46,1.07,3.19,353,0.684,0.297,0.034,27698
+"Whey, sweet, fluid","Dairy and Egg Products",0.85,0.047,0.054,,0.0001,0.161,5.14,5.14,0.36,93.12,27,0.23,0.1,0.011,27699
+"Whipped cream substitute, dietetic, made from powdered mix","Dairy and Egg Products",0.9,0.003,0.106,,0,0.026,10.6,10.6,6,82.3,100,3.186,1.357,1.158,27700
+"Whipped topping, frozen, low fat","Dairy and Egg Products",3,0.071,0.072,,0,0.101,23.6,23.6,13.1,59.7,224,11.273,0.838,0.269,27701
+"Yogurt, chocolate, nonfat milk","Dairy and Egg Products",3.53,0.088,0.135,1.2,0,0.339,23.53,14.97,,71.57,112,,,,27702
+"Yogurt, chocolate, nonfat milk, fortified with vitamin D","Dairy and Egg Products",3.53,0.088,0.135,1.2,0,0.339,23.53,14.97,,71.57,112,,,,27703
+"Yogurt, fruit variety, nonfat","Dairy and Egg Products",4.4,0.152,0.058,,0.0007,0.194,19,19,0.2,75.4,95,0.119,0.05,0.016,27704
+"Yogurt, fruit variety, nonfat, fortified with vitamin D","Dairy and Egg Products",4.4,0.152,0.058,,0.0007,0.194,19,19,0.2,75.4,95,0.119,0.05,0.016,27705
+"Yogurt, fruit, low fat, 10 grams protein per 8 ounce","Dairy and Egg Products",4.37,0.152,0.058,,0.0007,0.195,19.05,19.05,1.08,74.48,102,0.697,0.297,0.031,27706
+"Yogurt, fruit, low fat, 10 grams protein per 8 ounce, fortified with vitamin D","Dairy and Egg Products",4.37,0.152,0.058,,0.0007,0.195,19.05,19.05,1.08,74.48,102,0.697,0.297,0.031,27707
+"Yogurt, fruit, low fat, 11 grams protein per 8 ounce","Dairy and Egg Products",4.86,0.169,0.065,,0.0007,0.216,18.6,,1.41,74.1,105,0.909,0.387,0.04,27708
+"Yogurt, fruit, low fat, 9 grams protein per 8 ounce","Dairy and Egg Products",3.98,0.138,0.053,,0.0006,0.177,18.64,18.64,1.15,75.3,99,0.742,0.316,0.033,27709
+"Yogurt, fruit, low fat, 9 grams protein per 8 ounce, fortified with vitamin D","Dairy and Egg Products",3.98,0.138,0.053,,0.0006,0.177,18.64,18.64,1.15,75.3,99,0.742,0.316,0.033,27710
+"Yogurt, fruit, lowfat, with low calorie sweetener","Dairy and Egg Products",4.86,0.152,0.058,,0.0007,0.194,18.6,2.9,1.41,74.1,105,0.909,0.387,0.04,27711
+"Yogurt, fruit, lowfat, with low calorie sweetener, fortified with vitamin D","Dairy and Egg Products",4.86,0.152,0.058,,0.0007,0.194,18.6,2.9,1.41,74.1,105,0.909,0.387,0.04,27712
+"Yogurt, plain, low fat, 12 grams protein per 8 ounce","Dairy and Egg Products",5.25,0.183,0.07,,0.0008,0.234,7.04,7.04,1.55,85.07,63,1,0.426,0.044,27713
+"Yogurt, plain, skim milk, 13 grams protein per 8 ounce","Dairy and Egg Products",5.73,0.199,0.077,,0.0009,0.255,7.68,7.68,0.18,85.23,56,0.116,0.049,0.005,27714
+"Yogurt, plain, whole milk, 8 grams protein per 8 ounce","Dairy and Egg Products",3.47,0.121,0.046,,0.0005,0.155,4.66,4.66,3.25,87.9,61,2.096,0.893,0.092,27715
+"Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener","Dairy and Egg Products",3.86,0.143,0.059,,0.0011,0.177,7.5,7.5,0.18,87.43,43,0.116,0.049,0.005,27716
+"Yogurt, vanilla or lemon flavor, nonfat milk, sweetened with low-calorie sweetener, fortified with vitamin D","Dairy and Egg Products",3.86,0.143,0.059,,0.0011,0.177,7.5,7.5,0.18,87.43,43,0.116,0.049,0.005,27717
+"Yogurt, vanilla, low fat, 11 grams protein per 8 ounce","Dairy and Egg Products",4.93,0.171,0.066,,0.0008,0.219,13.8,13.8,1.25,79,85,0.806,0.343,0.036,27718
+"Yogurt, vanilla, low fat, 11 grams protein per 8 ounce, fortified with vitamin D","Dairy and Egg Products",4.93,0.171,0.066,,0.0008,0.219,13.8,13.8,1.25,79,85,0.806,0.343,0.036,27719
+"Basil, fresh","Spices and Herbs",3.15,0.177,0.004,1.6,0.018,0.295,2.65,0.3,0.64,92.06,23,0.041,0.088,0.389,27720
+"CAMPBELL Soup Company, PACE, Dry Taco Seasoning Mix","Spices and Herbs",,0,8.068,18.8,0.045,0,56.29,18.76,,5.7,188,,,,27721
+"Capers, canned","Spices and Herbs",2.36,0.04,2.964,3.2,0.0043,0.04,4.89,0.41,0.86,83.85,23,0.233,0.063,0.304,27722
+"Dill weed, fresh","Spices and Herbs",3.46,0.208,0.061,2.1,0.085,0.738,7.02,,1.12,85.95,43,0.06,0.802,0.095,27723
+"Horseradish, prepared","Spices and Herbs",1.18,0.056,0.314,3.3,0.0249,0.246,11.29,7.99,0.69,85.08,48,0.09,0.13,0.339,27724
+"Mustard, prepared, yellow","Spices and Herbs",4.37,0.058,1.135,3.3,0.0015,0.138,5.33,0.86,4.01,82.65,67,0.248,2.627,0.954,27725
+"Peppermint, fresh","Spices and Herbs",3.75,0.243,0.031,8,0.0318,0.569,14.89,,0.94,78.65,70,0.246,0.033,0.508,27726
+"Rosemary, fresh","Spices and Herbs",3.31,0.317,0.026,14.1,0.0218,0.668,20.7,,5.86,67.77,131,2.838,1.16,0.901,27727
+"Salt, table","Spices and Herbs",,0.024,38.758,,0,0.008,,,,0.2,,,,,27728
+"Spearmint, dried","Spices and Herbs",19.93,1.488,0.344,29.8,0,1.924,52.04,,6.03,11.3,285,1.577,0.21,3.257,27729
+"Spearmint, fresh","Spices and Herbs",3.29,0.199,0.03,6.8,0.013300000000000001,0.458,8.41,,0.73,85.55,44,0.191,0.025,0.394,27730
+"Spices, allspice, ground","Spices and Herbs",6.09,0.661,0.077,21.6,0.039200000000000006,1.044,72.12,,8.69,8.46,263,2.55,0.66,2.36,27731
+"Spices, anise seed","Spices and Herbs",17.6,0.646,0.016,14.6,0.021,1.441,50.02,,15.9,9.54,337,0.586,9.78,3.15,27732
+"Spices, basil, dried","Spices and Herbs",22.98,2.24,0.076,37.7,0.0008,2.63,47.75,1.71,4.07,10.35,233,2.157,1.238,0.498,27733
+"Spices, bay leaf","Spices and Herbs",7.61,0.834,0.023,26.3,0.0465,0.529,74.97,,8.36,5.44,313,2.28,1.64,2.29,27734
+"Spices, caraway seed","Spices and Herbs",19.77,0.689,0.017,38,0.021,1.351,49.9,0.64,14.59,9.87,333,0.62,7.125,3.272,27735
+"Spices, cardamom","Spices and Herbs",10.76,0.383,0.018,28,0.021,1.119,68.47,,6.7,8.28,311,0.68,0.87,0.43,27736
+"Spices, celery seed","Spices and Herbs",18.07,1.767,0.16,11.8,0.0171,1.4,41.35,0.67,25.27,6.04,392,2.19,15.93,3.72,27737
+"Spices, chervil, dried","Spices and Herbs",23.2,1.346,0.083,11.3,0.05,4.74,49.1,,3.9,7.2,237,0.169,1.399,1.8,27738
+"Spices, chili powder","Spices and Herbs",13.46,0.33,1.64,34.8,0.0007,1.95,49.7,7.19,14.28,10.75,282,2.462,3.211,8.006,27739
+"Spices, cinnamon, ground","Spices and Herbs",3.99,1.002,0.01,53.1,0.0038,0.431,80.59,2.17,1.24,10.58,247,0.345,0.246,0.068,27740
+"Spices, cloves, ground","Spices and Herbs",5.98,0.646,0.243,34.2,0.0808,1.102,61.21,2.38,20.07,6.86,323,5.438,1.471,7.088,27741
+"Spices, coriander leaf, dried","Spices and Herbs",21.93,1.246,0.211,10.4,0.5667000000000001,4.466,52.1,7.27,4.78,7.3,279,0.115,2.232,0.328,27742
+"Spices, coriander seed","Spices and Herbs",12.37,0.709,0.035,41.9,0.021,1.267,54.99,,17.77,8.86,298,0.99,13.58,1.75,27743
+"Spices, cumin seed","Spices and Herbs",17.81,0.931,0.168,10.5,0.0077,1.788,44.24,2.25,22.27,8.06,375,1.535,14.04,3.279,27744
+"Spices, curry powder","Spices and Herbs",12.66,0.478,0.052,33.2,0.0114,1.543,58.15,2.76,13.81,9.52,325,2.237,5.551,2.557,27745
+"Spices, dill seed","Spices and Herbs",15.98,1.516,0.02,21.1,0.021,1.186,55.17,,14.54,7.7,305,0.73,9.41,1.01,27746
+"Spices, dill weed, dried","Spices and Herbs",19.96,1.784,0.208,13.6,0.05,3.308,55.82,,4.36,7.3,253,0.234,,,27747
+"Spices, fennel seed","Spices and Herbs",15.8,1.196,0.088,39.8,0.021,1.694,52.29,,14.87,8.81,345,0.48,9.91,1.69,27748
+"Spices, fenugreek seed","Spices and Herbs",23,0.176,0.067,24.6,0.003,0.77,58.35,,6.41,8.84,323,1.46,,,27749
+"Spices, garlic powder","Spices and Herbs",16.55,0.079,0.06,9,0.0012,1.193,72.73,2.43,0.73,6.45,331,0.249,0.115,0.178,27750
+"Spices, ginger, ground","Spices and Herbs",8.98,0.114,0.027,14.1,0.0007,1.32,71.62,3.39,4.24,9.94,335,2.599,0.479,0.929,27751
+"Spices, mace, ground","Spices and Herbs",6.71,0.252,0.08,20.2,0.021,0.463,50.5,,32.38,8.17,475,9.51,11.17,4.39,27752
+"Spices, marjoram, dried","Spices and Herbs",12.66,1.99,0.077,40.3,0.0514,1.522,60.56,4.09,7.04,7.64,271,0.529,0.94,4.405,27753
+"Spices, mustard seed, ground","Spices and Herbs",26.08,0.266,0.013,12.2,0.0070999999999999995,0.738,28.09,6.79,36.24,5.27,508,1.989,22.518,10.088,27754
+"Spices, nutmeg, ground","Spices and Herbs",5.84,0.184,0.016,20.8,0.003,0.35,49.29,28.49,36.31,6.23,525,25.94,3.22,0.35,27755
+"Spices, onion powder","Spices and Herbs",10.41,0.384,0.073,15.2,0.023399999999999997,0.985,79.12,6.63,1.04,5.39,341,0.219,0.202,0.31,27756
+"Spices, oregano, dried","Spices and Herbs",9,1.597,0.025,42.5,0.0023,1.26,68.92,4.09,4.28,9.93,265,1.551,0.716,1.369,27757
+"Spices, paprika","Spices and Herbs",14.14,0.229,0.068,34.9,0.0009,2.28,53.99,10.34,12.89,11.24,282,2.14,1.695,7.766,27758
+"Spices, parsley, dried","Spices and Herbs",26.63,1.14,0.452,26.7,0.125,2.683,50.64,7.27,5.48,5.89,292,0.774,0.373,4.116,27759
+"Spices, pepper, black","Spices and Herbs",10.39,0.443,0.02,25.3,0,1.329,63.95,0.64,3.26,12.46,251,1.392,0.739,0.998,27760
+"Spices, pepper, red or cayenne","Spices and Herbs",12.01,0.148,0.03,27.2,0.07640000000000001,2.014,56.63,10.34,17.27,8.05,318,3.26,2.75,8.37,27761
+"Spices, pepper, white","Spices and Herbs",10.4,0.265,0.005,26.2,0.021,0.073,68.61,,2.12,11.42,296,0.626,0.789,0.616,27762
+"Spices, poppy seed","Spices and Herbs",17.99,1.438,0.026,19.5,0.001,0.719,28.13,2.99,41.56,5.95,525,4.517,5.982,28.569,27763
+"Spices, poultry seasoning","Spices and Herbs",9.59,0.996,0.027,11.3,0.012,0.684,65.59,3.08,7.53,9.31,307,3.29,1.206,1.936,27764
+"Spices, pumpkin pie spice","Spices and Herbs",5.76,0.682,0.052,14.8,0.023399999999999997,0.663,69.28,7.76,12.6,8.46,342,6.53,1.102,0.78,27765
+"Spices, rosemary, dried","Spices and Herbs",4.88,1.28,0.05,42.6,0.061200000000000004,0.955,64.06,,15.22,9.31,331,7.371,3.014,2.339,27766
+"Spices, saffron","Spices and Herbs",11.43,0.111,0.148,3.9,0.0808,1.724,65.37,,5.85,11.9,310,1.586,0.429,2.067,27767
+"Spices, sage, ground","Spices and Herbs",10.63,1.652,0.011,40.3,0.0324,1.07,60.73,1.71,12.75,7.96,315,7.03,1.87,1.76,27768
+"Spices, savory, ground","Spices and Herbs",6.73,2.132,0.024,45.7,0.05,1.051,68.73,,5.91,9,272,3.26,,,27769
+"Spices, tarragon, dried","Spices and Herbs",22.77,1.139,0.062,7.4,0.05,3.02,50.22,,7.24,7.74,295,1.881,0.474,3.698,27770
+"Spices, thyme, dried","Spices and Herbs",9.11,1.89,0.055,37,0.05,0.814,63.94,1.71,7.43,7.79,276,2.73,0.47,1.19,27771
+"Spices, turmeric, ground","Spices and Herbs",7.83,0.183,0.038,21.1,0.0259,2.525,64.93,3.21,9.88,11.36,354,3.12,1.66,2.18,27772
+"Thyme, fresh","Spices and Herbs",5.56,0.405,0.009,14,0.1601,0.609,24.45,,1.68,65.11,101,0.467,0.081,0.532,27773
+"Vanilla extract","Spices and Herbs",0.06,0.011,0.009,,0,0.148,12.65,12.65,0.06,52.58,288,0.01,0.01,0.004,27774
+"Vanilla extract, imitation, alcohol","Spices and Herbs",0.05,0,0.004,,0,0.098,2.41,,,64.46,237,,,,27775
+"Vanilla extract, imitation, no alcohol","Spices and Herbs",0.03,0.003,0.003,,0,0,14.4,14.4,,85.58,56,,,,27776
+"Vinegar, balsamic","Spices and Herbs",0.49,0.027,0.023,,0,0.112,17.03,14.95,,76.45,88,,,,27777
+"Vinegar, cider","Spices and Herbs",,0.007,0.005,,0,0.073,0.93,0.4,,93.81,21,,,,27778
+"Vinegar, distilled","Spices and Herbs",,0.006,0.002,,0,0.002,0.04,0.04,,94.78,18,,,,27779
+"Vinegar, red wine","Spices and Herbs",0.04,0.006,0.008,,0.0005,0.039,0.27,,,94.47,19,,,,27780
+"Baby food, fortified cereal bar, fruit filling","Baby Foods",5.43,1.053,0.25,1.7,0.0024,0.18,68.63,42,5.3,14,344,0.453,3.107,1.541,27781
+"Babyfood, apple yogurt dessert, strained","Baby Foods",0.8,0.006,0.02,0.5,0.0351,0.07,19.5,12.02,1.6,77.9,96,1.034,0.438,0.044,27782
+"Babyfood, apple-banana juice","Baby Foods",0.2,0.007,0.004,0.2,0.027899999999999998,0.123,12.3,11,0.1,87.1,51,0.018,0.004,0.034,27783
+"Babyfood, apple-cranberry juice","Baby Foods",,0.006,0.005,,0.027899999999999998,0.097,11.49,6.88,0.02,88.3,46,0.007,,0.012,27784
+"Babyfood, apples with ham, strained","Baby Foods",2.6,0.004,0.009,1.8,0.0001,0.12,10.9,7.98,0.9,85.3,62,0.25,0.36,0.111,27785
+"Babyfood, apples, dices, toddler","Baby Foods",0.2,0.01,0.006,0.9,0.0313,0.05,12.1,10.83,0.1,87.5,51,0.02,0.004,0.03,27786
+"Babyfood, baked product, finger snacks cereal","Baby Foods",6.4,0.4,0.324,2.3,0.01,0.114,76.68,28,9.9,3.7,421,1.646,3.13,3.638,27787
+"Babyfood, banana apple dessert, strained","Baby Foods",0.3,0.003,0.007,1,0.0123,0.071,16.3,14.66,0.2,83.1,68,0.058,0.018,0.047,27788
+"Babyfood, banana juice with low fat yogurt","Baby Foods",2.5,0.079,0.037,0.4,0.0339,0.16,17.54,13.28,0.8,78.5,89,0.517,0.219,0.022,27789
+"Babyfood, banana no tapioca, strained","Baby Foods",1,0.004,0.002,1.6,0.0219,0.29,21.34,11.36,0.2,76.7,91,0.072,0.028,0.041,27790
+"Babyfood, carrots and beef, strained","Baby Foods",3.4,0.022,0.069,2.6,0.0008,0.226,5.7,2.04,2.5,87.3,59,0.96,1.06,0.13,27791
+"Babyfood, carrots, toddler","Baby Foods",0.6,0.019,0.048,2.3,0.0007,0.129,5.23,2.5,0.3,93.5,26,0.052,0.012,0.148,27792
+"Babyfood, cereal, barley, dry","Baby Foods",11.1,0.795,0.012,8.2,0.0022,0.395,75.3,3.1,3.4,6.8,365,0.418,0.666,1.759,27793
+"Babyfood, cereal, barley, prepared with whole milk","Baby Foods",3.73,0.162,0.043,0.6,0.0002,0.151,9.94,5.1,3.26,82.19,84,1.76,0.802,0.309,27794
+"Babyfood, cereal, brown rice, dry, instant","Baby Foods",8.7,0.055,0.009,6.5,0,0.386,85.65,0.92,3,1,404,0.6,1.08,1.07,27795
+"Babyfood, cereal, egg yolks and bacon, junior","Baby Foods",2.5,0.028,0.048,0.9,0.0009,0.035,6.2,,5,85.9,79,1.64,2.207,0.641,27796
+"Babyfood, cereal, high protein, prepared with whole milk","Baby Foods",8.7,0.218,0.049,,0,0.349,11.6,,3.8,74.5,111,,,,27797
+"Babyfood, cereal, high protein, with apple and orange, dry","Baby Foods",25.4,0.751,0.104,7.1,0.0031,1.33,57.6,,6.5,5.3,374,0.96,1.231,3.429,27798
+"Babyfood, cereal, high protein, with apple and orange, prepared with whole milk","Baby Foods",6.9,0.223,0.058,,0,0.346,13.4,,3.9,74.4,112,,,,27799
+"Babyfood, cereal, mixed, dry","Baby Foods",12.2,0.733,0.003,7.5,0.0023,0.437,73.4,0.87,4.4,6.7,379,0.769,1.206,1.697,27800
+"Babyfood, cereal, mixed, prepared with whole milk","Baby Foods",4.14,0.22,0.042,0.8,0.0003,0.166,12.3,4.78,3.38,79.21,96,1.745,0.855,0.359,27801
+"Babyfood, cereal, mixed, with applesauce and bananas, junior","Baby Foods",1.2,0.004,0.003,1.2,0.0091,0.032,18.4,7.79,0.4,79.6,83,0.072,0.108,0.152,27802
+"Babyfood, cereal, mixed, with applesauce and bananas, strained","Baby Foods",1.2,0.006,0.003,1.2,0.0255,0.041,18,7.79,0.5,80,82,0.09,0.135,0.191,27803
+"Babyfood, cereal, mixed, with bananas, dry","Baby Foods",10.7,0.696,0,7.8,0.0036,0.668,77.1,6.68,4.6,4.5,391,0.846,1.223,1.734,27804
+"Babyfood, cereal, mixed, with bananas, prepared with whole milk","Baby Foods",3.82,0.153,0.048,0.4,0.0004,0.178,10,5.9,3.46,81.81,86,1.808,0.859,0.342,27805
+"Babyfood, cereal, mixed, with honey, prepared with whole milk","Baby Foods",5,0.294,0.048,,0,0.171,15.9,,3.6,74.2,115,,,,27806
+"Babyfood, cereal, oatmeal, dry","Baby Foods",13.07,0.707,0.004,9,0,0.42,69.65,3.84,8,5.9,399,1.37,2.57,2.47,27807
+"Babyfood, cereal, oatmeal, prepared with whole milk","Baby Foods",5,0.22,0.046,1.1,0.0013,0.204,15.3,,4.1,74.5,116,2.258,,,27808
+"Babyfood, cereal, oatmeal, with applesauce and bananas, junior","Baby Foods",1.3,0.006,0.003,0.8,0.0245,0.048,15.7,9.48,0.7,81.8,75,0.126,0.216,0.253,27809
+"Babyfood, cereal, oatmeal, with applesauce and bananas, strained","Baby Foods",1.3,0.009,0.003,0.8,0.0218,0.047,15.4,10.49,0.7,82.2,74,0.125,0.216,0.253,27810
+"Babyfood, cereal, oatmeal, with bananas, dry","Baby Foods",12,0.651,0.006,5.2,0.0047,0.731,73.4,13.75,6,4.7,393,1.267,1.429,2.186,27811
+"Babyfood, cereal, oatmeal, with bananas, prepared with whole milk","Baby Foods",3.82,0.153,0.048,0.4,0.0004,0.178,10,5.9,3.46,81.81,86,1.82,0.859,0.345,27812
+"Babyfood, cereal, oatmeal, with honey, dry","Baby Foods",13.5,1.154,0.047,,0,0.259,69.3,,7,5.8,391,,,,27813
+"Babyfood, cereal, oatmeal, with honey, prepared with whole milk","Baby Foods",5,0.289,0.049,,0,0.17,15.3,,3.9,74.5,115,,,,27814
+"Babyfood, cereal, rice, dry","Baby Foods",7.1,0.85,0.006,0.5,0.0024,0.385,77.7,0.12,4.9,6.7,391,0.919,1.26,2.016,27815
+"Babyfood, cereal, rice, prepared with whole milk","Baby Foods",3.45,0.168,0.042,,0.0002,0.151,10.31,4.87,3.38,81.96,85,1.793,0.846,0.333,27816
+"Babyfood, cereal, rice, with applesauce and bananas, strained","Baby Foods",1.2,0.017,0.004,1,0.0316,0.028,17.1,2.24,0.4,81,80,0.114,0.104,0.102,27817
+"Babyfood, cereal, rice, with bananas, dry","Baby Foods",8.7,0.691,0,1,0.002,0.769,79.9,16.7,4.2,4.7,404,0.978,0.986,1.503,27818
+"Babyfood, cereal, rice, with bananas, prepared with whole milk","Baby Foods",3.57,0.156,0.047,0.1,0.0002,0.18,10.49,6.13,3.32,81.81,86,1.798,0.826,0.294,27819
+"Babyfood, cereal, rice, with honey, prepared with whole milk","Baby Foods",3.9,0.291,0.049,,0,0.141,17.1,,3.3,74.4,115,,,,27820
+"Babyfood, cereal, rice, with mixed fruit, junior","Baby Foods",0.9,0.016,0.01,0.6,0.009300000000000001,0.05,18.3,10.5,0.2,80.4,82,0.06,0.04,0.05,27821
+"Babyfood, cereal, whole wheat, with apples, dry","Baby Foods",12.6,0.6,0.025,12.2,0.0583,0.516,77.1,22.2,4.8,1.7,402,0.639,1.277,1.866,27822
+"Babyfood, cereal, with egg yolks, junior","Baby Foods",1.9,0.024,0.033,0.9,0.0007,0.035,7.1,,1.8,88.7,52,0.61,0.79,0.3,27823
+"Babyfood, cereal, with egg yolks, strained","Baby Foods",1.9,0.024,0.033,0.9,0.0007,0.039,7,,1.8,88.8,51,0.61,0.79,0.3,27824
+"Babyfood, cereal, with eggs, strained","Baby Foods",2.2,0.027,0.038,,0.0008,0.044,8,,1.5,87.2,58,0.49,0.61,0.33,27825
+"Babyfood, cherry cobbler, junior","Baby Foods",0.3,0.005,0,0.2,0.009300000000000001,0.045,19.2,10.39,0.1,79.8,78,0.02,0.02,0.03,27826
+"Babyfood, cookie, baby, fruit","Baby Foods",6.8,0.083,0.009,3.4,0.0015,0.425,73.7,24.2,12.6,5.7,435,2.7,4.865,4.334,27827
+"Babyfood, cookies","Baby Foods",11.8,0.101,0.357,0.2,0.007,0.501,67.1,24.2,13.2,5.9,433,2.352,5.99,2.878,27828
+"Babyfood, cookies, arrowroot","Baby Foods",7.6,0.032,0.319,0.2,0.0055,0.156,71.1,,14.3,5.6,442,1.048,7.922,0.591,27829
+"Babyfood, corn and sweet potatoes, strained","Baby Foods",1.26,0.018,0.014,1.8,0.005,0.154,15.23,4,0.28,82.62,68,0.053,0.071,0.123,27830
+"Babyfood, crackers, vegetable","Baby Foods",8.4,0.041,0.571,4,0.0505,0.245,66.85,13,19.6,2,477,1.966,15.779,1.022,27831
+"Babyfood, dessert, banana pudding, strained","Baby Foods",1,0.011,0.054,0.8,0.012,0.09,14.14,10.55,0.8,83.5,68,0.264,0.277,0.111,27832
+"Babyfood, dessert, banana yogurt, strained","Baby Foods",1.1,0.03,0.014,0.5,0.013900000000000001,0.1,17.4,3.95,0.52,80.7,79,0.37,0.12,0.03,27833
+"Babyfood, dessert, blueberry yogurt, strained","Baby Foods",0.5,0.025,0.014,0.4,0.0124,0.062,17.05,13.62,0.7,81.4,77,0.452,0.192,0.019,27834
+"Babyfood, dessert, cherry vanilla pudding, junior","Baby Foods",0.2,0.005,0,0.3,0.0011,0.033,18.4,16.98,0.2,81,69,0.058,0.07,0.036,27835
+"Babyfood, dessert, cherry vanilla pudding, strained","Baby Foods",0.2,0.005,0,0.3,0.0011,0.034,17.8,9.15,0.3,81.5,68,0.087,0.105,0.053,27836
+"Babyfood, dessert, custard pudding, vanilla, junior","Baby Foods",1.76,0.054,0.026,0.2,0.0004,0.068,17.58,12.2,0.98,79.31,86,0.325,0.364,0.128,27837
+"Babyfood, dessert, custard pudding, vanilla, strained","Baby Foods",1.6,0.055,0,,0.0008,0.066,16,11.5,2,79.9,85,1.01,0.68,0.16,27838
+"Babyfood, dessert, dutch apple, junior","Baby Foods",0.2,0.003,0.003,1.4,0.018,0.067,19.29,17.89,0.16,80.32,79,0.025,0.006,0.045,27839
+"Babyfood, dessert, dutch apple, strained","Baby Foods",0.2,0.005,0,1.4,0.0214,0.033,19.74,17.89,0.4,79.5,75,0.19,0.08,0.01,27840
+"Babyfood, dessert, fruit dessert, without ascorbic acid, junior","Baby Foods",0.3,0.009,0,0.6,0.003,0.095,17.2,12,,82.2,63,,,,27841
+"Babyfood, dessert, fruit dessert, without ascorbic acid, strained","Baby Foods",0.3,0.009,0,0.6,0.0025,0.094,16,12.6,,83.4,59,,,,27842
+"Babyfood, dessert, fruit pudding, orange, strained","Baby Foods",1.1,0.032,0.02,0.6,0.0091,0.086,17.7,,0.9,79.8,80,0.545,0.257,0.038,27843
+"Babyfood, dessert, fruit pudding, pineapple, strained","Baby Foods",1.3,0.031,0,0.7,0.0272,0.081,20.3,10.28,0.3,77.6,81,0.099,0.109,0.041,27844
+"Babyfood, dessert, peach cobbler, junior","Baby Foods",0.3,0.004,0,0.7,0.0205,0.056,18.3,11.89,,81.2,67,,,,27845
+"Babyfood, dessert, peach cobbler, strained","Baby Foods",0.3,0.004,0.007,0.7,0.0205,0.054,17.8,10.62,,81.8,65,,,,27846
+"Babyfood, dessert, peach yogurt","Baby Foods",0.9,0.027,0.014,0.4,0.011699999999999999,0.102,17.6,6.63,0.18,80.87,76,0.117,0.048,0.005,27847
+"Babyfood, dessert, tropical fruit, junior","Baby Foods",0.2,0.01,0.007,,0.0188,0.058,16.4,,,83.2,60,,,,27848
+"Babyfood, dinner, apples and chicken, strained","Baby Foods",2.16,0.018,0.012,1.8,0.0002,0.095,10.87,7.9,1.38,85.4,65,0.347,0.411,0.35,27849
+"Babyfood, dinner, beef and rice, toddler","Baby Foods",5,0.011,0.032,,0.0039,0.12,8.8,,2.9,81.9,82,,,,27850
+"Babyfood, dinner, beef lasagna, toddler","Baby Foods",4.2,0.018,0.041,,0.0019,0.122,10,,2.1,82.3,77,,,,27851
+"Babyfood, dinner, beef noodle, junior","Baby Foods",2.5,0.008,0.026,1.1,0.0014,0.046,7.3,1.45,1.9,87.8,57,0.766,0.838,0.094,27852
+"Babyfood, dinner, beef noodle, strained","Baby Foods",2.44,0.01,0.015,1.3,0.0001,0.087,8.18,1.42,2.26,86.84,63,0.937,0.941,0.141,27853
+"Babyfood, dinner, beef stew, toddler","Baby Foods",5.1,0.009,0.106,1.1,0.003,0.142,5.5,1.39,1.2,86.9,51,0.58,0.44,0.1,27854
+"Babyfood, dinner, beef with vegetables","Baby Foods",2.03,0.019,0.038,1.8,0,0.127,6.36,2.16,6.93,84.3,96,2.84,3.12,0.9,27855
+"Babyfood, dinner, broccoli and chicken, junior","Baby Foods",3.59,0.037,0.017,1.4,0.0177,0.17,6.34,1.43,2.48,86.92,62,0.51,0.77,0.43,27856
+"Babyfood, dinner, chicken and noodle with vegetables, toddler","Baby Foods",3.8,0.011,0.235,0.6,0.0017,0.095,8.89,0.82,1.7,85.3,66,0.461,0.632,0.392,27857
+"Babyfood, dinner, chicken and rice","Baby Foods",1.6,0.018,0.025,1.1,0.001,0.06,9.2,0.55,0.9,88,51,0.211,0.392,0.188,27858
+"Babyfood, dinner, chicken noodle, junior","Baby Foods",2.37,0.021,0.035,0.9,0.0001,0.039,8.79,1.07,1.18,87.25,55,0.338,0.467,0.272,27859
+"Babyfood, dinner, chicken noodle, strained","Baby Foods",2.69,0.027,0.038,2.1,0.0001,0.139,9.08,2.5,2.06,85.64,66,0.595,0.854,0.461,27860
+"Babyfood, dinner, chicken soup, strained","Baby Foods",1.6,0.037,0.016,1.1,0.001,0.066,7.2,1.72,1.7,89.1,50,0.278,0.425,0.9,27861
+"Babyfood, dinner, chicken stew, toddler","Baby Foods",5.2,0.036,0.025,0.6,0.0019,0.092,6.4,1.68,3.7,83.3,78,1.1,1.7,0.77,27862
+"Babyfood, dinner, macaroni and cheese, junior","Baby Foods",2.6,0.051,0.266,0.3,0.0013,0.044,8.2,1.32,2,86.5,61,1.175,0.534,0.132,27863
+"Babyfood, dinner, macaroni and cheese, strained","Baby Foods",3.14,0.066,0.119,0.7,0.0001,0.067,8.95,1.27,2.11,85.25,67,1.291,0.581,0.103,27864
+"Babyfood, dinner, macaroni and tomato and beef, junior","Baby Foods",2.5,0.014,0.035,1.1,0.0015,0.072,9.4,2.43,1.1,86.7,59,0.411,0.447,0.079,27865
+"Babyfood, dinner, macaroni and tomato and beef, strained","Baby Foods",2.36,0.017,0.038,1.2,0.0003,0.112,9.45,2.09,1.47,86.34,61,0.486,0.594,0.193,27866
+"Babyfood, dinner, macaroni, beef and tomato sauce, toddler","Baby Foods",4.34,0.012,0.035,1.1,0.0019,0.148,11.53,0.37,1.9,81.81,81,0.705,0.782,0.14,27867
+"Babyfood, dinner, mixed vegetable, junior","Baby Foods",1,0.017,0.038,,0.0033,0.112,8,,,90.6,33,,,,27868
+"Babyfood, dinner, mixed vegetable, strained","Baby Foods",1.2,0.022,0.038,,0.0028,0.121,9.5,,0.1,88.7,41,,,,27869
+"Babyfood, dinner, pasta with vegetables","Baby Foods",1.7,0.014,0.011,1.5,0.0029,0.133,8.4,1.2,2.1,87.3,60,1.23,0.58,0.144,27870
+"Babyfood, dinner, potatoes with cheese and ham, toddler","Baby Foods",3.5,0.053,0.205,1.2,0.0001,0.143,11.97,0.8,2,81.5,78,1.1,0.733,0.163,27871
+"Babyfood, dinner, spaghetti and tomato and meat, junior","Baby Foods",2.57,0.015,0.03,1.1,0.0002,0.122,11.42,2.72,1.37,84.17,68,0.543,0.497,0.185,27872
+"Babyfood, dinner, spaghetti and tomato and meat, toddler","Baby Foods",5.3,0.022,0.239,,0.0040999999999999995,0.163,10.8,,1,81.6,75,,,,27873
+"Babyfood, dinner, sweet potatoes and chicken, strained","Baby Foods",2.51,0.03,0.022,1.3,0,0.2,11.04,5.37,2.17,83.7,74,0.572,0.98,0.48,27874
+"Babyfood, dinner, turkey and rice, junior","Baby Foods",2.37,0.024,0.023,1,0.0003,0.086,9.57,1.25,0.92,86.64,56,0.239,0.304,0.233,27875
+"Babyfood, dinner, turkey and rice, strained","Baby Foods",2.27,0.018,0.019,0.9,0.0002,0.091,7.94,1.66,1.24,88.22,52,0.338,0.446,0.308,27876
+"Babyfood, dinner, turkey, rice, and vegetables, toddler","Baby Foods",3.8,0.011,0.276,0.8,0.0003,0.107,7.5,0.66,1.6,86.3,60,0.5,0.555,0.309,27877
+"Babyfood, dinner, vegetables and bacon, strained","Baby Foods",1.92,0.014,0.049,1.7,0.0003,0.116,8.81,1.77,2.95,85.75,69,1.063,1.347,0.377,27878
+"Babyfood, dinner, vegetables and beef, junior","Baby Foods",2.21,0.017,0.031,1.3,0.0002,0.145,8.84,2.34,3.6,84.94,77,1.367,1.289,0.298,27879
+"Babyfood, dinner, vegetables and beef, strained","Baby Foods",2.21,0.017,0.031,1.3,0.0002,0.145,8.84,2.34,3.6,84.94,77,0.87,0.82,0.19,27880
+"Babyfood, dinner, vegetables and chicken, junior","Baby Foods",2.04,0.027,0.034,1.1,0.0002,0.083,8.66,1.46,1.12,87.76,53,0.302,0.402,0.269,27881
+"Babyfood, dinner, vegetables and dumplings and beef, junior","Baby Foods",2.1,0.014,0.052,,0.0008,0.047,8,,0.8,88.6,48,,,,27882
+"Babyfood, dinner, vegetables and dumplings and beef, strained","Baby Foods",2,0.014,0.049,,0.0008,0.046,7.7,,0.9,88.9,48,,,,27883
+"Babyfood, dinner, vegetables and ham, junior","Baby Foods",2.02,0.014,0.045,1,0.0011,0.097,8.64,0.99,1.89,87,60,0.483,0.811,0.448,27884
+"Babyfood, dinner, vegetables and ham, strained","Baby Foods",2.19,0.016,0.016,1.6,0.0016,0.141,7.8,1.37,2.14,87.47,59,0.764,0.963,0.234,27885
+"Babyfood, dinner, vegetables and lamb, junior","Baby Foods",2.1,0.013,0.013,1.1,0.0017,0.095,7.1,0.94,1.7,88.6,51,0.696,0.69,0.154,27886
+"Babyfood, dinner, vegetables and lamb, strained","Baby Foods",2,0.012,0.02,1.1,0.0012,0.094,6.9,0.94,2,88.6,52,0.828,0.822,0.167,27887
+"Babyfood, dinner, vegetables and noodles and turkey, junior","Baby Foods",1.8,0.032,0.017,1.1,0.0008,0.073,7.6,,1.5,88.7,52,,,,27888
+"Babyfood, dinner, vegetables and noodles and turkey, strained","Baby Foods",1.2,0.032,0.021,1.1,0.0008,0.063,6.8,,1.2,90.3,44,,,,27889
+"Babyfood, dinner, vegetables and turkey, junior","Baby Foods",1.72,0.016,0.045,0.9,0.0004,0.098,7.55,1.36,1.74,88.5,53,0.485,0.687,0.391,27890
+"Babyfood, dinner, vegetables and turkey, strained","Baby Foods",2.32,0.027,0.02,1.5,0.0007,0.102,7.62,1.54,0.9,88.82,48,0.236,0.294,0.241,27891
+"Babyfood, dinner, vegetables and turkey, toddler","Baby Foods",4.8,0.046,0.041,,0.0034,0.166,8.1,,3.4,82.3,80,,,,27892
+"Babyfood, dinner, vegetables chicken, strained","Baby Foods",2.47,0.027,0.024,2.1,0.0001,0.158,8.42,1.58,1.73,86.9,59,0.496,0.712,0.374,27893
+"Babyfood, dinner, vegetables, noodles and chicken, junior","Baby Foods",1.7,0.026,0.026,1.1,0.0008,0.059,9.1,,2.2,86.2,64,,,,27894
+"Babyfood, dinner, vegetables, noodles and chicken, strained","Baby Foods",2,0.028,0.02,1.1,0.0007,0.055,7.9,,2.5,87.2,63,,,,27895
+"Babyfood, fruit and vegetable, apple and sweet potato","Baby Foods",0.3,0.008,0.003,1.4,0.0064,0.149,15.3,11.6,0.22,84,64,0.041,0.008,0.079,27896
+"Babyfood, fruit dessert, mango with tapioca","Baby Foods",0.3,0.008,0.004,1.1,0.0158,0.066,19,13,0.2,80,70,0.039,0.06,0.03,27897
+"Babyfood, fruit supreme dessert","Baby Foods",0.5,0.006,0.001,2,0.0127,0.129,17.18,14.87,0.2,81.6,73,0.03,0.025,0.068,27898
+"Babyfood, fruit, apple and blueberry, junior","Baby Foods",0.2,0.005,0.001,1.8,0.013900000000000001,0.065,16.6,8.83,0.2,82.8,62,0.024,0.019,0.073,27899
+"Babyfood, fruit, apple and blueberry, strained","Baby Foods",0.2,0.004,0.001,1.8,0.027800000000000002,0.069,16.3,13.93,0.2,83.1,61,0.024,0.019,0.073,27900
+"Babyfood, fruit, apple and raspberry, junior","Baby Foods",0.2,0.005,0,2.1,0.0289,0.072,15.4,12.96,0.2,84,58,0.032,0.008,0.063,27901
+"Babyfood, fruit, apple and raspberry, strained","Baby Foods",0.2,0.005,0,2.1,0.0268,0.08,15.6,12.96,0.2,83.8,58,0.033,0.008,0.062,27902
+"Babyfood, fruit, applesauce and apricots, junior","Baby Foods",0.2,0.006,0,1.8,0.0179,0.109,12.4,8.72,0.2,86.9,47,0.028,0.03,0.051,27903
+"Babyfood, fruit, applesauce and apricots, strained","Baby Foods",0.2,0.006,0,1.8,0.0189,0.12,11.64,9.25,0.2,87.7,44,0.024,0.037,0.045,27904
+"Babyfood, fruit, applesauce and cherries, junior","Baby Foods",,0.001,0.001,1.1,0.0428,0.132,14.1,10.61,,85.6,51,,,,27905
+"Babyfood, fruit, applesauce and cherries, strained","Baby Foods",,0.001,0.001,1.1,0.0428,0.132,14.1,10.81,,85.63,51,,,,27906
+"Babyfood, fruit, applesauce and pineapple, junior","Baby Foods",0.1,0.004,0.002,1.5,0.0268,0.076,10.5,,0.1,89.1,39,0.011,0.009,0.032,27907
+"Babyfood, fruit, applesauce and pineapple, strained","Baby Foods",0.1,0.004,0.002,1.5,0.0281,0.078,10.1,,0.1,89.5,37,0.01,0.009,0.032,27908
+"Babyfood, fruit, applesauce with banana, junior","Baby Foods",0.37,0.005,0.003,1.6,0.0173,0.131,16.16,4.35,0.1,83.14,66,0.04,0.01,0.05,27909
+"Babyfood, fruit, applesauce, junior","Baby Foods",,0.005,0.001,1.7,0.0378,0.077,10.3,8.48,,89.5,37,,,,27910
+"Babyfood, fruit, applesauce, strained","Baby Foods",0.2,0.004,0,1.7,0.038299999999999994,0.071,10.8,9.87,0.2,88.6,41,0.032,0.008,0.056,27911
+"Babyfood, fruit, apricot with tapioca, junior","Baby Foods",0.3,0.008,0,1.5,0.0179,0.125,17.3,1.4,,82.1,63,,,,27912
+"Babyfood, fruit, apricot with tapioca, strained","Baby Foods",0.3,0.009,0,1.5,0.0216,0.121,16.3,1.41,,83.1,60,,,,27913
+"Babyfood, fruit, bananas and pineapple with tapioca, junior","Baby Foods",0.2,0.007,0,1.6,0.0212,0.078,18.4,8.41,0.1,81.1,68,0.036,0.009,0.02,27914
+"Babyfood, fruit, bananas and pineapple with tapioca, strained","Baby Foods",0.2,0.007,0,1.6,0.0192,0.068,17.8,10.73,,81.7,65,,,,27915
+"Babyfood, fruit, bananas with apples and pears, strained","Baby Foods",0.9,0.005,0.002,1.4,0.013900000000000001,0.233,19.31,12.76,0.22,79,83,0.106,0.028,0.085,27916
+"Babyfood, fruit, bananas with tapioca, junior","Baby Foods",0.4,0.008,0,1.6,0.0257,0.108,17.8,7.1,0.2,81.5,67,0.076,0.018,0.037,27917
+"Babyfood, fruit, bananas with tapioca, strained","Baby Foods",0.4,0.005,0,1.6,0.0167,0.088,15.3,0.38,0.1,84,56,0.035,0.01,0.019,27918
+"Babyfood, fruit, guava and papaya with tapioca, strained","Baby Foods",0.2,0.007,0.004,,0.0809,0.074,17,,0.1,82.5,63,,,,27919
+"Babyfood, fruit, papaya and applesauce with tapioca, strained","Baby Foods",0.2,0.007,0.005,1.4,0.11309999999999999,0.079,18.9,,0.1,80.6,70,,,,27920
+"Babyfood, fruit, peaches, junior","Baby Foods",0.94,0.004,0.004,1.3,0.0461,0.195,14.48,11.5,0.33,83.65,65,0.02,0.01,0.04,27921
+"Babyfood, fruit, peaches, strained","Baby Foods",0.94,0.004,0.004,1.3,0.0461,0.195,14.48,11.5,0.33,83.65,65,0.02,0.01,0.04,27922
+"Babyfood, fruit, pears and pineapple, junior","Baby Foods",0.3,0.01,0,2.6,0.016800000000000002,0.118,11.4,7.36,0.2,87.8,44,0.013,0.031,0.058,27923
+"Babyfood, fruit, pears and pineapple, strained","Baby Foods",0.3,0.01,0,2.6,0.0275,0.116,10.9,7.79,0.1,88.5,41,0.007,0.016,0.029,27924
+"Babyfood, fruit, pears, junior","Baby Foods",0.3,0.008,0.001,3.6,0.022,0.115,11.6,7.34,0.1,87.8,44,0.006,0.021,0.023,27925
+"Babyfood, fruit, pears, strained","Baby Foods",0.3,0.008,0.001,3.6,0.0245,0.13,10.8,6.98,0.2,88.4,42,0.012,0.042,0.046,27926
+"Babyfood, fruit, plums with tapioca, without ascorbic acid, junior","Baby Foods",0.1,0.006,0,1.2,0.0008,0.083,20.5,13.64,,79.2,74,,,,27927
+"Babyfood, fruit, plums with tapioca, without ascorbic acid, strained","Baby Foods",0.1,0.006,0,1.2,0.0011,0.085,19.7,13.34,,80,71,,,,27928
+"Babyfood, fruit, prunes with tapioca, without ascorbic acid, junior","Baby Foods",0.6,0.015,0.002,2.7,0.0008,0.162,18.7,10.97,0.1,80.1,70,0.008,0.066,0.022,27929
+"Babyfood, fruit, prunes with tapioca, without ascorbic acid, strained","Baby Foods",0.6,0.015,0.005,2.7,0.0008,0.177,18.5,10.97,0.1,80.3,69,0.008,0.066,0.022,27930
+"Babyfood, fruit, tutti frutti, junior","Baby Foods",0.4,0.014,0.017,0.4,0.0072,0.047,16,9.41,0.4,82.9,69,0.11,0.148,0.061,27931
+"Babyfood, fruit, tutti frutti, strained","Baby Foods",0.4,0.015,0.025,0.6,0.0124,0.046,15.48,9.29,0.3,83.5,66,0.087,0.113,0.043,27932
+"Babyfood, green beans, dices, toddler","Baby Foods",1.2,0.027,0.037,1.3,0.0017,0.116,5.7,1.06,0.2,92.6,29,0.044,0.008,0.102,27933
+"Babyfood, juice treats, fruit medley, toddler","Baby Foods",,0.012,0.089,,0.008,0.054,86.68,57.4,,12.89,347,,,,27934
+"Babyfood, juice, apple","Baby Foods",,0.004,0.008,0.1,0.0579,0.091,11.7,10.7,0.1,88,47,0.018,0.002,0.031,27935
+"Babyfood, juice, apple - cherry","Baby Foods",0.2,0.007,0.004,0.3,0.032100000000000004,0.11,11.2,10.5,0.1,88.2,47,0.02,,0.03,27936
+"Babyfood, juice, apple and cherry","Baby Foods",0.1,0.005,0,0.1,0.0583,0.098,9.9,8.98,0.2,89.5,41,0.035,0.011,0.06,27937
+"Babyfood, juice, apple and grape","Baby Foods",0.1,0.006,0,0.1,0.0315,0.09,11.34,10.9,0.2,88.1,46,0.04,0.009,0.059,27938
+"Babyfood, juice, apple and peach","Baby Foods",0.2,0.003,0,0.1,0.0585,0.097,10.5,9.59,0.1,89,43,0.018,0.002,0.031,27939
+"Babyfood, juice, apple and plum","Baby Foods",0.1,0.005,0,0.1,0.0582,0.101,12.3,11.54,,87.3,49,,,,27940
+"Babyfood, juice, apple and prune","Baby Foods",0.2,0.009,0.008,0.1,0.0675,0.148,18.1,10.58,0.1,81.3,72,0.018,0.006,0.031,27941
+"Babyfood, juice, apple, with calcium","Baby Foods",0.06,0.127,0.003,0.4,0.0212,0.092,11.1,9,0.1,88.3,46,0.018,0.005,0.032,27942
+"Babyfood, juice, apple-sweet potato","Baby Foods",0.3,0.015,0.005,0.5,0.0341,0.137,11.4,9.6,0.1,87.9,48,0.03,0.01,0.05,27943
+"Babyfood, juice, fruit punch, with calcium","Baby Foods",0.2,0.064,0.004,0.4,0.0212,0.086,12.7,10.6,0.1,86.5,52,0.02,0.004,0.029,27944
+"Babyfood, juice, mixed fruit","Baby Foods",0.1,0.008,0.008,0.1,0.0636,0.101,11.7,8.46,0.1,87.9,47,0.015,0.006,0.039,27945
+"Babyfood, juice, orange","Baby Foods",0.6,0.012,0,0.1,0.0625,0.184,10.2,8.26,0.3,88.5,45,0.035,0.05,0.06,27946
+"Babyfood, juice, orange and apple","Baby Foods",0.4,0.01,0.003,,0.07690000000000001,0.138,10.1,,0.2,88.9,43,,,,27947
+"Babyfood, juice, orange and apple and banana","Baby Foods",0.4,0.005,0,0.1,0.032100000000000004,0.134,11.5,10.03,0.1,87.6,47,0.016,0.007,0.027,27948
+"Babyfood, juice, orange and apricot","Baby Foods",0.8,0.006,0.006,0.1,0.0859,0.199,10.9,,0.1,87.8,46,0.011,0.022,0.02,27949
+"Babyfood, juice, orange and banana","Baby Foods",0.7,0.017,0.003,,0.034,0.2,11.9,,0.1,86.9,50,,,,27950
+"Babyfood, juice, orange and pineapple","Baby Foods",0.5,0.008,0.002,0.1,0.053399999999999996,0.141,11.7,,0.1,87.3,48,0.01,0.014,0.024,27951
+"Babyfood, juice, orange-carrot","Baby Foods",0.5,0.016,0.01,0.4,0.0341,0.174,9.9,8.4,0.1,89.1,43,0.01,0.01,0.03,27952
+"Babyfood, juice, pear","Baby Foods",,0.012,0.008,0.1,0.0338,0.13,11.86,7.28,,87.9,47,,,,27953
+"Babyfood, juice, prune and orange","Baby Foods",0.6,0.012,0.002,,0.0638,0.181,16.8,,0.3,81.9,70,,,,27954
+"Babyfood, macaroni and cheese, toddler","Baby Foods",3.5,0.102,0.112,0.5,0,0.018,11.2,0.79,2.6,81.7,82,1.53,0.7,0.17,27955
+"Babyfood, mashed cheddar potatoes and broccoli, toddlers","Baby Foods",1.13,0.038,0.176,0.9,0.0014,0.118,7.64,1.18,1.47,88.78,48,0.632,0.29,0.291,27956
+"Babyfood, meat, beef with vegetables, toddler","Baby Foods",3.5,0.011,0.026,0.5,0.0025,0.168,8.72,1.18,2.1,85.23,68,0.847,0.92,0.108,27957
+"Babyfood, meat, beef, junior","Baby Foods",12.03,0.005,0.041,,0.0021000000000000003,0.187,2.43,,2.52,82.44,81,1.18,0.95,0.16,27958
+"Babyfood, meat, beef, strained","Baby Foods",12.03,0.005,0.041,,0.0021000000000000003,0.187,2.43,,2.52,82.44,81,1.18,0.95,0.16,27959
+"Babyfood, meat, chicken sticks, junior","Baby Foods",14.6,0.073,0.408,0.2,0.0017,0.106,1.5,1.4,14.4,68.3,188,4.094,6.267,2.986,27960
+"Babyfood, meat, chicken, junior","Baby Foods",14,0.055,0.049,,0.0015,0.122,,,9.6,76,146,2.47,4.33,2.33,27961
+"Babyfood, meat, chicken, strained","Baby Foods",13.7,0.064,0.049,,0.0017,0.141,0.1,,7.9,77.5,130,2.03,3.56,1.92,27962
+"Babyfood, meat, ham, junior","Baby Foods",11.3,0.005,0.044,,0.0021000000000000003,0.21,3.7,,3.8,80.5,97,1.271,1.804,0.516,27963
+"Babyfood, meat, ham, strained","Baby Foods",11.3,0.006,0.044,,0.0021000000000000003,0.204,3.7,,3.8,80.5,97,1.267,1.803,0.51,27964
+"Babyfood, meat, lamb, junior","Baby Foods",15.2,0.007,0.042,,0.0017,0.211,,,5.2,79.6,112,2.56,2.06,0.22,27965
+"Babyfood, meat, lamb, strained","Baby Foods",14.07,0.007,0.043,,0.0012,0.193,0.85,,3.41,81.06,87,1.65,1.27,0.31,27966
+"Babyfood, meat, meat sticks, junior","Baby Foods",13.4,0.034,0.423,0.2,0.0024,0.114,1.1,0.8,14.6,69.5,184,5.82,6.48,1.59,27967
+"Babyfood, meat, pork, strained","Baby Foods",14,0.005,0.042,,0.0018,0.223,,,7.1,78.4,124,2.4,3.58,0.78,27968
+"Babyfood, meat, turkey sticks, junior","Baby Foods",13.7,0.083,0.44,0.5,0.0015,0.12,1.4,1.4,14.2,69.8,188,4.143,4.671,3.615,27969
+"Babyfood, meat, turkey, junior","Baby Foods",11.5,0.041,0.049,,0,0.135,1.4,,6.2,80.32,111,1.641,2.384,1.741,27970
+"Babyfood, meat, turkey, strained","Baby Foods",11.5,0.041,0.049,,0.0022,0.135,1.4,,6.2,80.32,111,1.641,2.384,1.741,27971
+"Babyfood, meat, veal, strained","Baby Foods",13.12,0.006,0.039,,0,0.17,1.51,,2.45,82.37,81,1.063,1.054,0.157,27972
+"Babyfood, mixed fruit juice with low fat yogurt","Baby Foods",2.4,0.081,0.036,0.4,0.0339,0.137,14.68,10.8,0.8,81.5,76,0.517,0.219,0.022,27973
+"Babyfood, mixed fruit yogurt, strained","Baby Foods",0.8,0.028,0.016,0.4,0.011699999999999999,0.062,16.23,11.74,0.8,81.8,75,0.517,0.219,0.022,27974
+"Babyfood, oatmeal cereal with fruit, dry, instant, toddler","Baby Foods",10.5,0.286,0,7.8,0.0027,0.346,74.1,11.09,7.05,5.4,402,1.572,3.008,2.29,27975
+"Babyfood, peaches, dices, toddler","Baby Foods",0.5,0.006,0.009,0.8,0.0313,0.083,11.8,9.49,0.2,87.4,51,0.016,0.046,0.078,27976
+"Babyfood, pears, dices, toddler","Baby Foods",0.3,0.01,0.006,1.2,0.0313,0.051,13.6,8.66,0.1,85.6,57,0.01,0.043,0.046,27977
+"Babyfood, peas and brown rice","Baby Foods",3.4,0.014,0.006,2.5,0.003,0.093,11.49,2.88,0.5,84.1,64,0.1,0.18,0.18,27978
+"Babyfood, peas, dices, toddler","Baby Foods",3.9,0.021,0.048,3.9,0.006,0.081,10.3,4.13,0.8,84.6,64,0.14,0.07,0.37,27979
